@@ -139,6 +139,7 @@ ul {
   line-height: 1.5rem;
   letter-spacing: 1px;
   cursor: pointer;
+  word-break: break-word;
 }
 
 .drag-item:focus {
@@ -205,7 +206,7 @@ ul {
 }
 
 .add-item {
-  width: 100%;
+  width: 86%;
   min-height: 100px;
   height: auto;
   background-color: white;
